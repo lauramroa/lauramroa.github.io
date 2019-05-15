@@ -6,6 +6,8 @@
 Open up the terminal and go into
 the repository directory.
 
+    cd ~/Downloads/design/laura_website/
+
 Then run the following command:
 
     git pull
